@@ -24,8 +24,7 @@ I will continue learn more know-how and coding skill on softwave develop in the 
 
 ### Languages and Tools:
 ---
- 
-<p>Android and third part API</p>
+<h3 align="left">Android and third part API</h3>
 <p>
 
   </a>  
@@ -34,11 +33,30 @@ I will continue learn more know-how and coding skill on softwave develop in the 
     <img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
     <img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
   <br />
-  <img width="10%" src="https://www.vectorlogo.zone/logos/google_maps/google_maps-ar21.svg">
+    <img width="10%" src="https://www.vectorlogo.zone/logos/google_maps/google_maps-ar21.svg">
     <img width="10%" src="https://www.vectorlogo.zone/logos/google_admob/google_admob-ar21.svg">
+    <img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg">
+    <img width="10%" src="https://www.vectorlogo.zone/logos/amazon_awslambda/amazon_awslambda-ar21.svg">
     <br />  
+    <img width="10%" src="https://www.vectorlogo.zone/logos/facebook/facebook-ar21.svg">
+    <img width="10%" src="https://www.vectorlogo.zone/logos/huawei/huawei-ar21.svg">
+    <img width="10%" height="43" src="https://logodix.com/logo/2116308.png"> 
+    <br /> 
 </p>
-<p>Version control</p>
+
+<h3 align="left">Asynchronous Programming</h3>
+<p> - Thread <br/> 
+    - AsyncTask <br/>  
+    - Handler <br/> 
+    - RxJava<br/> 
+</p>
+<h3 align="left">Network</h3>
+<p> - OkHttp<br/> 
+    - Retrofit<br/> 
+    - Socket<br/> 
+</p>
+
+<h3 align="left">Version control</h3>
 <p>
 
   </a>  
@@ -48,4 +66,19 @@ I will continue learn more know-how and coding skill on softwave develop in the 
     <img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg">
   <br />
 </p>
+   
+
+<h3 align="left">Plus</h3>
+<p>
+
+  </a>  
+ 	<img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg">
+    <img width="10%" src="https://www.vectorlogo.zone/logos/centos/centos-ar21.svg">
+    <img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
+    <img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg">
+  <br />
+  <img width="10%" src="https://www.vectorlogo.zone/logos/apache/apache-official.svg">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-ar21.svg">
+</p>
+
 
