@@ -26,7 +26,8 @@ I will continue learn more know-how and coding skill on softwave develop in the 
 ---
 <h3 align="left">Android and third part API</h3>
 <p>
-
+<img width="55%" align="right" alt="Eleg.Aces.KC's github stats" src="https://github-readme-stats.vercel.app/api?username=KuanChunChen&show_icons=true&hide_border=true" />
+    
   </a>  
   <img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg">
     <img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg">
@@ -80,5 +81,6 @@ I will continue learn more know-how and coding skill on softwave develop in the 
   <img width="10%" src="https://www.vectorlogo.zone/logos/apache/apache-official.svg">
   <img width="10%" src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-ar21.svg">
 </p>
+
 
 
