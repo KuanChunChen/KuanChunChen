@@ -26,7 +26,7 @@ I will continue learn more know-how and coding skill on softwave develop in the 
 ---
 <h3 align="left">Android and third part API</h3>
 <p>
-<img width="55%" align="right" alt="Eleg.Aces.KC's github stats" src="https://github-readme-stats.vercel.app/api?username=KuanChunChen&show_icons=true&hide_border=true" />
+
     
   </a>  
   <img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg">
@@ -45,17 +45,6 @@ I will continue learn more know-how and coding skill on softwave develop in the 
     <br /> 
 </p>
 
-<h3 align="left">Asynchronous Programming</h3>
-<p> - Thread <br/> 
-    - AsyncTask <br/>  
-    - Handler <br/> 
-    - RxJava<br/> 
-</p>
-<h3 align="left">Network</h3>
-<p> - OkHttp<br/> 
-    - Retrofit<br/> 
-    - Socket<br/> 
-</p>
 
 <h3 align="left">Version control</h3>
 <p>
