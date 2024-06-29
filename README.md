@@ -21,25 +21,25 @@ Software Developer | Android-Jetpack Compose
 <div align="left">
  
  # 💻 Tech Skill Sets
-
-Languages :
+![Languages](https://img.shields.io/badge/Languages-%230175C2.svg?style=for-the-badge&logo=Languages&logoColor=white) －
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  <br>
 
-Declarative UI : 
+![Declarative UI](https://img.shields.io/badge/Declarative%20UI-%230175C2.svg?style=for-the-badge&logo=Languages&logoColor=white) －
 ![Compose](https://img.shields.io/badge/jetpack_compose-%23ED8B00.svg?style=for-the-badge&logo=jetpack-compose)  ![NativeLayout](https://img.shields.io/badge/AndroidX_xml-3ECF8E?style=for-the-badge&logoColor=white)<br>
 
-DI : 
-![Hilt](https://img.shields.io/badge/Hilt-%230175C2.svg?style=for-the-badge&logo=android&logoColor=white)
-![Dagger2](https://img.shields.io/badge/Dagger2-%230175C2.svg?style=for-the-badge&logo=Dagger2&logoColor=white)
-![Koin](https://img.shields.io/badge/Koin-%230175C2.svg?style=for-the-badge&logo=koin&logoColor=white)<br>
 
-DB : 
-![Room](https://img.shields.io/badge/Room-%230175C2.svg?style=for-the-badge&logo=Room&logoColor=white)
+![DI](https://img.shields.io/badge/DI-%230175C2.svg?style=for-the-badge&logo=Languages&logoColor=white) －
+![Hilt](https://img.shields.io/badge/Hilt-%234ea94b.svg?style=for-the-badge&logo=android&logoColor=white)
+![Dagger2](https://img.shields.io/badge/Dagger2-%234ea94b.svg?style=for-the-badge&logo=android&logoColor=white)
+![Koin](https://img.shields.io/badge/Koin-%234ea94b.svg?style=for-the-badge&logo=android&logoColor=white)<br>
+
+![DB](https://img.shields.io/badge/DB-%230175C2.svg?style=for-the-badge&logo=Languages&logoColor=white) －
+![Room](https://img.shields.io/badge/Room-%234ea94b.svg?style=for-the-badge&logo=Room&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 <br>
 
-Third-Party Service : 
+![Third-Party Service](https://img.shields.io/badge/Third%20Party%20Service%20UI-%230175C2.svg?style=for-the-badge&logo=Languages&logoColor=white) －
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Huawei](https://img.shields.io/badge/Huawei-%ffffffff.svg?style=for-the-badge&logo=huawei&logoColor=red)
@@ -49,41 +49,43 @@ Third-Party Service :
 <br>
 
 
-Asynchronous Programming : 
-![Thread](https://img.shields.io/badge/Thread-%230175C2.svg?style=for-the-badge&logo=thread&logoColor=white)
-![AsyncTask](https://img.shields.io/badge/AsyncTask-%230175C2.svg?style=for-the-badge&logo=thread&logoColor=white)
-![Coroutine](https://img.shields.io/badge/Coroutine-%230175C2.svg?style=for-the-badge&logo=coroutine&logoColor=white)
+![Asynchronous Programming](https://img.shields.io/badge/Asynchronous%20Programming-%230175C2.svg?style=for-the-badge&logo=Languages&logoColor=white) －
+![Thread](https://img.shields.io/badge/Thread-%234ea94b.svg?style=for-the-badge&logo=thread&logoColor=white)
+![AsyncTask](https://img.shields.io/badge/AsyncTask-%234ea94b.svg?style=for-the-badge&logo=thread&logoColor=white)
+![Coroutine](https://img.shields.io/badge/Coroutine-%234ea94b.svg?style=for-the-badge&logo=coroutine&logoColor=white)
 <br>
 
-Flow Control : 
-![RxJava](https://img.shields.io/badge/RxJava-%230175C2.svg?style=for-the-badge&logo=rxjava&logoColor=white)
-![Kotlin Flow](https://img.shields.io/badge/Kotlin%20Flow-%230175C2.svg?style=for-the-badge&logo=flow&logoColor=white)
+![Flow Control](https://img.shields.io/badge/Flow%20Control-%230175C2.svg?style=for-the-badge&logo=Languages&logoColor=white) －
+![RxJava](https://img.shields.io/badge/RxJava-%234ea94b.svg?style=for-the-badge&logo=rxjava&logoColor=white)
+![Kotlin Flow](https://img.shields.io/badge/Kotlin%20Flow-%234ea94b.svg?style=for-the-badge&logo=flow&logoColor=white)
 <br>
 
-Network & IPC :
-![OkHttp](https://img.shields.io/badge/OkHttp-%230175C2.svg?style=for-the-badge&logo=OkHttp&logoColor=white)
-![Retrofit](https://img.shields.io/badge/Retrofit-%230175C2.svg?style=for-the-badge&logo=Retrofit&logoColor=white)
-![Socket](https://img.shields.io/badge/Socket-%230175C2.svg?style=for-the-badge&logo=Socket&logoColor=white)
-![AIDL](https://img.shields.io/badge/AIDL-%230175C2.svg?style=for-the-badge&logo=AIDL&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-%230175C2.svg?style=for-the-badge&logo=WebSocket&logoColor=white)
+![Network%IPC](https://img.shields.io/badge/Network%20&%20IPC-%230175C2.svg?style=for-the-badge&logo=Languages&logoColor=white) －
+![OkHttp](https://img.shields.io/badge/OkHttp-%234ea94b.svg?style=for-the-badge&logo=OkHttp&logoColor=white)
+![Retrofit](https://img.shields.io/badge/Retrofit-%234ea94b.svg?style=for-the-badge&logo=Retrofit&logoColor=white)
+![Socket](https://img.shields.io/badge/Socket-%234ea94b.svg?style=for-the-badge&logo=Socket&logoColor=white)
+![AIDL](https://img.shields.io/badge/AIDL-%234ea94b.svg?style=for-the-badge&logo=AIDL&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-%234ea94b.svg?style=for-the-badge&logo=WebSocket&logoColor=white)
 <br>
 
-Android Device control :
-![Device Owner](https://img.shields.io/badge/Device%20Owner-%230175C2.svg?style=for-the-badge&logo=OkHttp&logoColor=white)
-![OkHttp](https://img.shields.io/badge/Knox-%230175C2.svg?style=for-the-badge&logo=Knox&logoColor=white)
-![OkHttp](https://img.shields.io/badge/Accessibility-%230175C2.svg?style=for-the-badge&logo=Accessibility&logoColor=white)
+
+![Android Device control](https://img.shields.io/badge/Android%20Device%20control-%230175C2.svg?style=for-the-badge&logo=Languages&logoColor=white) －
+![Device Owner](https://img.shields.io/badge/Device%20Owner-%234ea94b.svg?style=for-the-badge&logo=OkHttp&logoColor=white)
+![OkHttp](https://img.shields.io/badge/Knox-%234ea94b.svg?style=for-the-badge&logo=Knox&logoColor=white)
+![OkHttp](https://img.shields.io/badge/Accessibility-%234ea94b.svg?style=for-the-badge&logo=Accessibility&logoColor=white)
 <br>
 
-Tool : 
-![adb](https://img.shields.io/badge/adb-%230175C2.svg?style=for-the-badge&logo=adb&logoColor=white)
-![aapt](https://img.shields.io/badge/aapt-%230175C2.svg?style=for-the-badge&logo=aapt&logoColor=white)
-![aapt](https://img.shields.io/badge/jd%20gui-%230175C2.svg?style=for-the-badge&logo=jd-gui&logoColor=white)
-![dex2jar](https://img.shields.io/badge/dex2jar-%230175C2.svg?style=for-the-badge&logo=dex2jar&logoColor=white)
-![apktool](https://img.shields.io/badge/apktool-%230175C2.svg?style=for-the-badge&logo=apktool&logoColor=white)
-![jekyll](https://img.shields.io/badge/jekyll-%230175C2.svg?style=for-the-badge&logo=jekyll&logoColor=white)
+![Tool](https://img.shields.io/badge/Tool-%230175C2.svg?style=for-the-badge&logo=Languages&logoColor=white) －
+![adb](https://img.shields.io/badge/adb-%234ea94b.svg?style=for-the-badge&logo=adb&logoColor=white)
+![aapt](https://img.shields.io/badge/aapt-%234ea94b.svg?style=for-the-badge&logo=aapt&logoColor=white)
+![aapt](https://img.shields.io/badge/jd%20gui-%234ea94b.svg?style=for-the-badge&logo=jd-gui&logoColor=white)
+![dex2jar](https://img.shields.io/badge/dex2jar-%234ea94b.svg?style=for-the-badge&logo=dex2jar&logoColor=white)
+![apktool](https://img.shields.io/badge/apktool-%234ea94b.svg?style=for-the-badge&logo=apktool&logoColor=white)
+![jekyll](https://img.shields.io/badge/jekyll-%234ea94b.svg?style=for-the-badge&logo=jekyll&logoColor=white)
 <br>
 
-General : ![Device Owner](https://img.shields.io/badge/Mvvm-%230175C2.svg?style=for-the-badge&logo=Mvvm&logoColor=white)
+![General](https://img.shields.io/badge/General-%230175C2.svg?style=for-the-badge&logo=Languages&logoColor=white) －
+![Mvvm](https://img.shields.io/badge/Mvvm-%234ea94b.svg?style=for-the-badge&logo=Mvvm&logoColor=white)
 <br>
 
 </div>
