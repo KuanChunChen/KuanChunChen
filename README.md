@@ -1,6 +1,12 @@
-### 👋 Hello, I,m Kuan-Chun-Chen.
----
-<p align="left">
+<div align="center">
+
+👋 Hello, I,m Kuan-Chun-Chen. <br> <br>
+Software Developer | Android-Jetpack Compose
+
+</div>
+
+
+<p align="center">
 <a href="https://elegantaccess.org/"><img src="https://img.shields.io/badge/blog-%23000000.svg?&style=for-the-badge"/></a>    
 <a href="https://www.linkedin.com/in/kuan-chun-chen-3b703216b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/KuanChunChen"><img src="https://img.shields.io/badge/github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -12,54 +18,74 @@
 
 </p>
 
-Hi there, I,m K.C Chen, an android developer specialize in Kotlin and Java.
+<div align="left">
+ 
+ # 💻 Tech Skill Sets
 
-I used to take part of project on whole android app.
+Languages :
+![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  <br>
 
-And also have more experience on use kinds of third part service and API.
+Declarative UI : 
+![Compose](https://img.shields.io/badge/jetpack_compose-%23ED8B00.svg?style=for-the-badge&logo=jetpack-compose)  ![NativeLayout](https://img.shields.io/badge/AndroidX_xml-3ECF8E?style=for-the-badge&logoColor=white)<br>
 
-I have more brave to challenge hard issue, never fear of different or unfamiliar field.
+DI : 
+![Hilt](https://img.shields.io/badge/Hilt-%230175C2.svg?style=for-the-badge&logo=android&logoColor=white)
+![Dagger2](https://img.shields.io/badge/Dagger2-%230175C2.svg?style=for-the-badge&logo=Dagger2&logoColor=white)
+![Koin](https://img.shields.io/badge/Koin-%230175C2.svg?style=for-the-badge&logo=koin&logoColor=white)<br>
 
-I will continue learn more know-how and coding skill on softwave develop in the future.
+DB : 
+![Room](https://img.shields.io/badge/Room-%230175C2.svg?style=for-the-badge&logo=Room&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
+<br>
 
-💬 Ask me about anything especially about tech, android, movies, series I am happy to help;
-
-
-### Languages and Tools:
----
-<h3 align="left">Android and third part API</h3>
-<p>
-
-    
-  </a>  
-  <img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg">
-    <img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg">
-    <img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
-    <img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
-  <br />
-    <img width="10%" src="https://www.vectorlogo.zone/logos/google_maps/google_maps-ar21.svg">
-    <img width="10%" src="https://www.vectorlogo.zone/logos/google_admob/google_admob-ar21.svg">
-    <img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg">
-    <img width="10%" src="https://www.vectorlogo.zone/logos/amazon_awslambda/amazon_awslambda-ar21.svg">
-    <br />  
-    <img width="10%" src="https://www.vectorlogo.zone/logos/facebook/facebook-ar21.svg">
-    <img width="10%" src="https://www.vectorlogo.zone/logos/huawei/huawei-ar21.svg">
-    <img width="10%" height="43" src="https://logodix.com/logo/2116308.png"> 
-    <br /> 
-</p>
+Third-Party Service : 
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Huawei](https://img.shields.io/badge/Huawei-%ffffffff.svg?style=for-the-badge&logo=huawei&logoColor=red)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon&logoColor=red)
+![Google MLKit](https://img.shields.io/badge/Google%20MLKit-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+![Lint bot API](https://img.shields.io/badge/Lint%20bot%20API-%234285F4.svg?style=for-the-badge&logo=line&logoColor=white)
+<br>
 
 
-<h3 align="left">Version control</h3>
-<p>
+Asynchronous Programming : 
+![Thread](https://img.shields.io/badge/Thread-%230175C2.svg?style=for-the-badge&logo=thread&logoColor=white)
+![AsyncTask](https://img.shields.io/badge/AsyncTask-%230175C2.svg?style=for-the-badge&logo=thread&logoColor=white)
+![Coroutine](https://img.shields.io/badge/Coroutine-%230175C2.svg?style=for-the-badge&logo=coroutine&logoColor=white)
+<br>
 
-  </a>  
- <img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
-    <img width="10%" src="https://www.vectorlogo.zone/logos/giteaio/giteaio-ar21.svg">
-    <img width="10%" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg">
-    <img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg">
-  <br />
-</p>
-   
+Flow Control : 
+![RxJava](https://img.shields.io/badge/RxJava-%230175C2.svg?style=for-the-badge&logo=rxjava&logoColor=white)
+![Kotlin Flow](https://img.shields.io/badge/Kotlin%20Flow-%230175C2.svg?style=for-the-badge&logo=flow&logoColor=white)
+<br>
 
+Network & IPC :
+![OkHttp](https://img.shields.io/badge/OkHttp-%230175C2.svg?style=for-the-badge&logo=OkHttp&logoColor=white)
+![Retrofit](https://img.shields.io/badge/Retrofit-%230175C2.svg?style=for-the-badge&logo=Retrofit&logoColor=white)
+![Socket](https://img.shields.io/badge/Socket-%230175C2.svg?style=for-the-badge&logo=Socket&logoColor=white)
+![AIDL](https://img.shields.io/badge/AIDL-%230175C2.svg?style=for-the-badge&logo=AIDL&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-%230175C2.svg?style=for-the-badge&logo=WebSocket&logoColor=white)
+<br>
+
+Android Device control :
+![Device Owner](https://img.shields.io/badge/Device%20Owner-%230175C2.svg?style=for-the-badge&logo=OkHttp&logoColor=white)
+![OkHttp](https://img.shields.io/badge/Knox-%230175C2.svg?style=for-the-badge&logo=Knox&logoColor=white)
+![OkHttp](https://img.shields.io/badge/Accessibility-%230175C2.svg?style=for-the-badge&logo=Accessibility&logoColor=white)
+<br>
+
+Tool : 
+![adb](https://img.shields.io/badge/adb-%230175C2.svg?style=for-the-badge&logo=adb&logoColor=white)
+![aapt](https://img.shields.io/badge/aapt-%230175C2.svg?style=for-the-badge&logo=aapt&logoColor=white)
+![aapt](https://img.shields.io/badge/jd%20gui-%230175C2.svg?style=for-the-badge&logo=jd-gui&logoColor=white)
+![dex2jar](https://img.shields.io/badge/dex2jar-%230175C2.svg?style=for-the-badge&logo=dex2jar&logoColor=white)
+![apktool](https://img.shields.io/badge/apktool-%230175C2.svg?style=for-the-badge&logo=apktool&logoColor=white)
+![jekyll](https://img.shields.io/badge/jekyll-%230175C2.svg?style=for-the-badge&logo=jekyll&logoColor=white)
+<br>
+
+General : ![Device Owner](https://img.shields.io/badge/Mvvm-%230175C2.svg?style=for-the-badge&logo=Mvvm&logoColor=white)
+<br>
+
+</div>
 
 
